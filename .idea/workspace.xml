@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8422252f-0324-4e6b-857e-8b359f37e60b" name="Default" comment="" />
+    <list default="true" id="8422252f-0324-4e6b-857e-8b359f37e60b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Models/Byzantines.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Models/Chinese.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Models/Civilization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Models/English.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Models/Army.php" afterPath="$PROJECT_DIR$/Models/Army.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Models/Unit.php" afterPath="$PROJECT_DIR$/Models/Unit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Ejercito.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +34,43 @@
       <file leaf-file-name="Army.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Models/Army.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="30" selection-start="931" selection-end="931" vertical-scroll-proportion="1.8171207" vertical-offset="86" max-vertical-offset="1258">
+            <state line="23" column="46" selection-start="392" selection-end="392" vertical-scroll-proportion="0.6989899" vertical-offset="45" max-vertical-offset="1972">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chinese.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/Chinese.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="1" selection-start="138" selection-end="138" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="English.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/English.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="45" selection-end="45" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Byzantines.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/Byzantines.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="5" selection-start="128" selection-end="128" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Civilization.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/Civilization.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
@@ -35,7 +79,7 @@
       <file leaf-file-name="Knight.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Models/Knight.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="20" selection-start="242" selection-end="242" vertical-scroll-proportion="-9.961538" vertical-offset="30" max-vertical-offset="544">
+            <state line="17" column="39" selection-start="261" selection-end="261" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="544">
               <folding />
             </state>
           </provider>
@@ -44,7 +88,7 @@
       <file leaf-file-name="Archer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Models/Archer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="9" selection-start="156" selection-end="303" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="544">
+            <state line="17" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="544">
               <folding />
             </state>
           </provider>
@@ -53,7 +97,7 @@
       <file leaf-file-name="Pickeman.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Models/Pickeman.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="510">
+            <state line="15" column="5" selection-start="221" selection-end="221" vertical-scroll-proportion="-9.230769" vertical-offset="15" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -62,7 +106,7 @@
       <file leaf-file-name="Unit.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Models/Unit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="1" selection-start="159" selection-end="159" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="340">
+            <state line="15" column="1" selection-start="160" selection-end="160" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
@@ -81,10 +125,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Models/Unit.php" />
         <option value="$PROJECT_DIR$/Models/Knight.php" />
         <option value="$PROJECT_DIR$/Models/Archer.php" />
         <option value="$PROJECT_DIR$/Models/Pickeman.php" />
+        <option value="$PROJECT_DIR$/Models/Civilization.php" />
+        <option value="$PROJECT_DIR$/Models/Chinese.php" />
+        <option value="$PROJECT_DIR$/Models/English.php" />
+        <option value="$PROJECT_DIR$/Models/Byzantines.php" />
+        <option value="$PROJECT_DIR$/Models/Unit.php" />
         <option value="$PROJECT_DIR$/Models/Army.php" />
       </list>
     </option>
@@ -122,7 +170,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -157,11 +204,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -197,17 +246,17 @@
     <frame x="-8" y="-8" width="1296" height="696" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -234,37 +283,100 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Models/Unit.php">
+    <entry file="file://$PROJECT_DIR$/Models/Army.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="159" selection-end="159" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Models/Archer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="9" selection-start="156" selection-end="303" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Models/Pickeman.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="510">
+        <state line="19" column="0" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Models/Knight.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="242" selection-end="242" vertical-scroll-proportion="-9.961538" vertical-offset="30" max-vertical-offset="544">
+        <state line="17" column="20" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Archer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="9" selection-start="156" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Pickeman.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Unit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Chinese.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="138" selection-end="138" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/English.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="45" selection-end="45" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Byzantines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="128" selection-end="128" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Civilization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Unit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="160" selection-end="160" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Pickeman.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="5" selection-start="221" selection-end="221" vertical-scroll-proportion="-9.230769" vertical-offset="15" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Archer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Knight.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="39" selection-start="261" selection-end="261" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="544">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Models/Army.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="30" selection-start="931" selection-end="931" vertical-scroll-proportion="1.8171207" vertical-offset="86" max-vertical-offset="1258">
+        <state line="23" column="46" selection-start="392" selection-end="392" vertical-scroll-proportion="0.6989899" vertical-offset="45" max-vertical-offset="1972">
           <folding />
         </state>
       </provider>

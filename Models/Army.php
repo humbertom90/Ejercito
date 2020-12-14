@@ -5,17 +5,38 @@ class Army
 {
 
     protected $coin = 1000;
-    
-    protected $name;
+
     protected $Archer;
     protected $Pickeman;
     protected $Knight;
 
-    public function __construct(Archer $archer, Pickeman $pickeman, Knight $knight)
+    public function __construct(Civilization $civilization)
     {
-        $this->Archer = $archer;
-        $this->Pickeman = $pickeman;
-        $this->Knight = $knight;
+
+        if ($civilization instanceof Chinese){
+
+            $this->Archer = 25;
+            $this->Pickeman = 2;
+            $this->Knight = 2;
+
+        }
+
+        if ($civilization instanceof English){
+
+            $this->Archer = 10;
+            $this->Pickeman = 10;
+            $this->Knight = 10;
+
+        }
+
+        if ($civilization instanceof Byzantines){
+
+            $this->Archer = 8;
+            $this->Pickeman = 5;
+            $this->Knight = 15;
+
+        }
+
     }
 
     public function getMoney(){
@@ -64,6 +85,27 @@ class Army
 
     }
 
+    public function transformation(Unit $unit){
+
+
+
+        if ($unit instanceof Archer){
+
+            $this->coin += -40;
+
+            $unit->setPoints(20);
+
+        }
+
+        if ($unit instanceof Pickeman){
+
+            $this->coin += -30;
+
+            $unit->setPoints(10);
+
+        }
+
+    }
    
 
 }
